@@ -9,6 +9,7 @@ Update the DataFilesPath settings value in `appsettings.json` file.
 Run the API app from visual studio.
 
 Swagger UI URL `http://localhost:<PORT>` and the api URL `http://localhost:<PORT>/api/powerstatistics`.
+
 Note: Port number is configured in `launchSettings.json` as `http://localhost:62059`
 
 
