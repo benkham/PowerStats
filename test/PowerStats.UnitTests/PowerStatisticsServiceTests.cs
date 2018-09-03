@@ -22,7 +22,7 @@ namespace PowerStats.UnitTests
 
             _settings = new PowerStatisticsSettings
             {
-                DataFilesPath = "C:\\BEN\\PROJECTS\\ERMPower\\PowerStats\\src\\PowerStats.API\\data",
+                DataFilesPath = "C:\\PROJECTS\\PowerStats\\src\\PowerStats.API\\data",
                 DataFileExtension = ".csv",
                 MedianTolerancePercentage = 20
             };
